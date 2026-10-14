@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+data/raw/
+logs/
+.ipynb_checkpoints/
+
+data/secrets/

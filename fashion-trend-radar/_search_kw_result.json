@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-09-13T19:00:14.044Z",
+    "input": {
+      "url": "https://www.instagram.com/explore/search/keyword/?q=%23plaidskirt"
+    },
+    "error": "Crawler error: Mobile frontend profile HTML for explore does not contain xig_user_by_igid_v2",
+    "error_code": "crawl_error"
+  }
+]

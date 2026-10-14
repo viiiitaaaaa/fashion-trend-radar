@@ -1,0 +1,6 @@
+keyword,fashion_score,status,google_score,pinterest_score,tiktok_score,commercial_score,uniqueness_score,margin_score,seasonality_penalty,saturation_penalty,contribution_margin_pct,category,style,seasonality_label,saturation_label
+plaid skirt,20.87,REJECT,25.14,10.33,38.38,1.67,40.0,0.0,0.0,0.0,0.0,fashion,heritage,NOT_ENOUGH_HISTORY,LOW_SATURATION
+chunky sweater,19.75,REJECT,24.28,10.33,33.86,1.67,40.0,0.0,0.0,0.0,0.0,fashion,cozy,NOT_ENOUGH_HISTORY,LOW_SATURATION
+funnel neck sweater,16.87,REJECT,17.88,10.33,27.46,1.67,40.0,0.0,0.0,0.0,0.0,fashion,minimalist,NOT_ENOUGH_HISTORY,LOW_SATURATION
+faux fur coat,12.13,REJECT,20.88,10.33,0.0,1.67,40.0,0.0,0.0,0.0,0.0,fashion,glam,NOT_ENOUGH_HISTORY,LOW_SATURATION
+tennis skirt,10.81,REJECT,15.59,10.33,0.0,1.67,40.0,0.0,0.0,0.0,0.0,fashion,sporty,NOT_ENOUGH_HISTORY,LOW_SATURATION

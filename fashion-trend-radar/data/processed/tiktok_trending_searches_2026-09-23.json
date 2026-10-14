@@ -1,0 +1,418 @@
+{
+ "code": 200,
+ "request_id": "b4e83e51-cb4a-4b11-9d41-5f937e37bce3",
+ "message": "Request successful. This request will incur a charge.",
+ "message_zh": "请求成功，本次请求将被计费。",
+ "support": "Discord: https://discord.gg/aMEAS8Xsvz",
+ "time": "2026-09-22 14:57:31",
+ "time_stamp": 1790114251,
+ "time_zone": "America/Los_Angeles",
+ "docs": "https://api.tikhub.io/#/TikTok-Web-API/fetch_trending_searchwords_api_v1_tiktok_web_fetch_trending_searchwords_get",
+ "cache_message": "This response is cached and accessible via the URL below for 24 hours at no extra cost. The cache is for request tracing only — it doesn't affect the API's data freshness and won't be returned through the API again.",
+ "cache_message_zh": "本次响应已缓存，可通过下方 URL 直接查看，有效期 24 小时，访问缓存链接无额外费用。缓存仅用于请求溯源，不影响接口数据的时效性，也不会再次通过接口返回。",
+ "cache_url": "https://cache.tikhub.io/api/v1/cache/public/b4e83e51-cb4a-4b11-9d41-5f937e37bce3?sign=9ce571d05edc1efc2ec534484005f9a96dd706567a93e2f51a778f3a8600a9b9",
+ "router": "/api/v1/tiktok/web/fetch_trending_searchwords",
+ "params": {},
+ "data": {
+  "extra": {
+   "fatal_item_ids": [],
+   "logid": "20260923055730DAC6549B842E5B442535",
+   "now": 1790114251000
+  },
+  "log_pb": {
+   "impr_id": "20260923055730DAC6549B842E5B442535"
+  },
+  "status_code": 0,
+  "status_msg": "",
+  "trending_search_words": [
+   {
+    "trendingSearchWord": "BTS Wins FANNSTAR Choice Group",
+    "trendingSearchWordType": "2"
+   },
+   {
+    "trendingSearchWord": "iPhone 18 Pro and Pro Max US Launch",
+    "trendingSearchWordType": "2"
+   },
+   {
+    "trendingSearchWord": "Content Creator Growth Tips 2026",
+    "trendingSearchWordType": "2"
+   },
+   {
+    "trendingSearchWord": "TikTok Celebrity Look-Alike Trend",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iPhone 18 Pro Official Look",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "BLACKPINK New Songs 2026",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iPhone 18 Pro Max China Launch",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Apple iPhone 18 Pro Max Launch",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Crocs Disney Pixar Cars Collection",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Baby Come Back Squishy Videos",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "2026 Vs 2016 Age Comparison Trend",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "TikTok And YouTube Growth Tips 2026",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Renegade Viral Dance Trend",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iPhone 18 Pro Max Glacier Unboxing",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "September Song 21st Night Trend",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iPhone Duo vs iPhone 18 Pro Max Debate",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "80s AI Photo Trend Tutorial",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iPhone 18 Pro Max Unboxing",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Sure Thing Lip Sync Trend",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Lamine Yamal Barcelona Goals",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iPhone 18 Pro Release Date",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "alberto cazabal",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "july acevedo",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "meizu 21",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Maury (1991)",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Aritz Aduriz",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "marlenebenitez2995",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "andrea bravocon",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "eddie orellano",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Jasmine Gonzalez",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Amber - 311",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Ximena Zalzer",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "NFL Theme Song",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "cesarvallejo100",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Keysla Hernandez",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "toothbrush to razors",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "hens son",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "disny100",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "100hourbrownie",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "cut out top",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "hair vitamin serum",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "disney 100s",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "25 charger",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Mix_151",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "disney's 100 pajama sets",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "drill battery",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "content creator kit",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "disney100yearsofwonder",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "hair dye shampoo for men",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "twice",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "100 day savings book",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "baby clothes TikTok for baby",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "lana necklaces",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "100 envelope savings binder",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "basketball",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "100k lumen flashlight police",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "ttshop",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "oil pulling teeth kit",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "#disney100",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "xbox one x",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "makeup bundles",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "bio sun stick",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "playstation 2",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "colourpopco",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "power tools",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "el club de las 19 flores álbum",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "100 envelope savings box",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iphone 16",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "t shirt for men",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Fendi Fendi Dance Dance TikTok",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "14 pro max cases",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iOS 26.7 on iPhone 11",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "3 inch shoes for men",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Steal An Egg Prediction Trend",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iPhone 15 Pro Max Case",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "dior xl de feid",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "couple halloween costume 2026 ideas",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "TikTok Shop USA",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iPhone 18 Pro Max Release",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "spin mop bucket",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "BLACKPINK 2026 New Music",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "GGEZ Phonk Trend",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iPhone 18 Duo vs iPhone 18",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "medicube",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "BIGBANG XX Cosmos New Jersey Concert",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "usb type c charger",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iPhone 18 Pro Max US Launch",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "doctors bag",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "grooming kit for dogs",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "long lasting perfume",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iPhone 18 Pro at Surprise and Shine",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "bed sheet set",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Renegade TikTok Dance Trend",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "10k in 100",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "iphone 12 pro max case",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "ribbon shirts for men",
+    "trendingSearchWordType": ""
+   },
+   {
+    "trendingSearchWord": "Not Buying FC 27 Trend",
+    "trendingSearchWordType": ""
+   }
+  ]
+ }
+}

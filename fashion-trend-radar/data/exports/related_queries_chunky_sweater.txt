@@ -1,0 +1,94 @@
+chunky sweater - Популярные запросы (Top related queries), US, last year, YoY +30%
+1	chunky knit sweater	+10%
+2	knit sweater	+3%
+3	black sweater	+50%
+4	cardigan sweater	-10%
+5	chunky sweater cardigan	-10%
+6	chunky cardigan sweater	-10%
+7	chunky black sweater	+50%
+8	chunky cardigan	-10%
+9	black chunky sweater	+50%
+10	oversized chunky sweater	+20%
+11	chunky oversized sweater	+10%
+12	oversized sweater	+20%
+13	white sweater	+30%
+14	chunky white sweater	+30%
+15	white chunky sweater	+30%
+16	chunky sweater dress	+60%
+17	sweater dress	+50%
+18	wool sweater	+80%
+19	chunky wool sweater	+70%
+20	womens chunky sweater	-7%
+21	chunky cable knit sweater	+8%
+22	cable knit sweater	+8%
+23	oversized chunky knit sweater	+40%
+24	brown sweater	+30%
+25	chunky brown sweater	+30%
+26	turtleneck sweater	-10%
+27	chunky knit sweater cardigan	-10%
+28	chunky knit cardigan	-10%
+29	chunky knit cardigan sweater	-10%
+30	chunky turtleneck sweater	-10%
+31	chunky red sweater	+30%
+32	cream chunky sweater	+80%
+33	red sweater	+30%
+34	red chunky sweater	+30%
+35	chunky cream sweater	+80%
+36	cashmere sweater	+50%
+37	chunky cashmere sweater	+50%
+38	cream sweater	+80%
+39	chunky sweater mens	+10%
+40	mens chunky sweater	+10%
+41	pink chunky sweater	+20%
+42	pink sweater	+20%
+43	sweaters	-30%
+44	chunky sweaters	-30%
+45	white chunky knit sweater	+60%
+46	chunky knit sweater dress	+70%
+47	chunky yarn	-20%
+48	chunky cropped sweater	-7%
+49	cropped sweater	-7%
+50	cropped chunky sweater	-7%
+
+chunky sweater - Запросы, набирающие популярность (Rising related queries), US, last year
+1	quince mongolian cashmere crewneck sweater	СВЕРХПОПУЛЯРНОСТЬ (breakout)
+2	abercrombie and fitch	+300%
+3	h&m	+180%
+4	quince	+120%
+5	uniqlo	+100%
+6	ralph lauren	+90%
+7	cream chunky sweater	+80%
+8	chunky cream sweater	+80%
+9	cream sweater	+80%
+10	gap	+80%
+11	fair isle sweater	+80%
+12	wool sweater	+80%
+13	chunky wool sweater	+70%
+14	chunky knit sweater dress	+70%
+15	cos cashmere sweater	+70%
+16	abercrombie	+60%
+17	old navy	+60%
+18	white chunky knit sweater	+60%
+19	chunky sweater dress	+60%
+20	sweater dress	+50%
+[21-30 not reliably captured -- a page reload during collection intermittently returned unrelated garbage rows (e.g. "canary islands", "steven spielberg movies") in this exact slot, a Google Trends UI glitch, not our pipeline. Left out rather than risk bad data.]
+31	baby chunky knit sweater	+40%
+32	oversized chunky knit sweater	+40%
+33	chunky christmas sweater	+40%
+34	madewell	+40%
+35	cos chunky cashmere sweater	+30%
+36	chunky red sweater	+30%
+37	red sweater	+30%
+38	white sweater	+30%
+39	red chunky sweater	+30%
+40	chunky white sweater	+30%
+41	chunky brown sweater	+30%
+42	white chunky sweater	+30%
+43	chunky grey sweater	+30%
+44	brown sweater	+30%
+45	chucky sweater	+20%
+46	pink sweater	+20%
+47	pink chunky sweater	+20%
+48	cos	+20%
+49	zara	+20%
+50	cos sweater	+20%

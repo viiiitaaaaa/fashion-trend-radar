@@ -1,0 +1,113 @@
+﻿candidate,group,type,value,date
+plaid skirt,age,18-24,61,2026-09-23
+plaid skirt,age,25-34,100,2026-09-23
+plaid skirt,age,35-44,91,2026-09-23
+plaid skirt,age,45-54,65,2026-09-23
+plaid skirt,age,55-64,62,2026-09-23
+roll neck sweater,age,18-24,55,2026-09-23
+roll neck sweater,age,25-34,91,2026-09-23
+roll neck sweater,age,35-44,100,2026-09-23
+roll neck sweater,age,45-54,60,2026-09-23
+roll neck sweater,age,55-64,0,2026-09-23
+bandana cardigan,age,18-24,0,2026-09-23
+bandana cardigan,age,25-34,70,2026-09-23
+bandana cardigan,age,35-44,100,2026-09-23
+bandana cardigan,age,45-54,71,2026-09-23
+bandana cardigan,age,55-64,0,2026-09-23
+faux fur coat,age,18-24,33,2026-09-23
+faux fur coat,age,25-34,58,2026-09-23
+faux fur coat,age,35-44,74,2026-09-23
+faux fur coat,age,45-54,100,2026-09-23
+faux fur coat,age,55-64,35,2026-09-23
+flannel shirt women,age,18-24,0,2026-09-23
+flannel shirt women,age,25-34,19,2026-09-23
+flannel shirt women,age,35-44,39,2026-09-23
+flannel shirt women,age,45-54,79,2026-09-23
+flannel shirt women,age,55-64,100,2026-09-23
+plaid skirt,gender,female,100,2026-09-23
+plaid skirt,gender,male,38,2026-09-23
+roll neck sweater,gender,female,100,2026-09-23
+roll neck sweater,gender,male,27,2026-09-23
+bandana cardigan,gender,female,100,2026-09-23
+bandana cardigan,gender,male,6,2026-09-23
+faux fur coat,gender,female,100,2026-09-23
+faux fur coat,gender,male,31,2026-09-23
+flannel shirt women,gender,female,100,2026-09-23
+flannel shirt women,gender,male,19,2026-09-23
+triangle scarf,age,18-24,25,2026-09-23
+triangle scarf,age,25-34,71,2026-09-23
+triangle scarf,age,35-44,100,2026-09-23
+triangle scarf,age,45-54,50,2026-09-23
+triangle scarf,age,55-64,54,2026-09-23
+bandana scarf,age,18-24,35,2026-09-23
+bandana scarf,age,25-34,62,2026-09-23
+bandana scarf,age,35-44,100,2026-09-23
+bandana scarf,age,45-54,53,2026-09-23
+bandana scarf,age,55-64,0,2026-09-23
+cashmere beanie,age,18-24,8,2026-09-23
+cashmere beanie,age,25-34,35,2026-09-23
+cashmere beanie,age,35-44,50,2026-09-23
+cashmere beanie,age,45-54,43,2026-09-23
+cashmere beanie,age,55-64,100,2026-09-23
+blazer with patches,age,18-24,0,2026-09-23
+blazer with patches,age,25-34,8,2026-09-23
+blazer with patches,age,35-44,28,2026-09-23
+blazer with patches,age,45-54,100,2026-09-23
+blazer with patches,age,55-64,0,2026-09-23
+knit poncho,age,18-24,35,2026-09-23
+knit poncho,age,25-34,100,2026-09-23
+knit poncho,age,35-44,84,2026-09-23
+knit poncho,age,45-54,32,2026-09-23
+knit poncho,age,55-64,0,2026-09-23
+triangle scarf,gender,female,100,2026-09-23
+triangle scarf,gender,male,22,2026-09-23
+bandana scarf,gender,female,100,2026-09-23
+bandana scarf,gender,male,34,2026-09-23
+cashmere beanie,gender,female,100,2026-09-23
+cashmere beanie,gender,male,54,2026-09-23
+blazer with patches,gender,female,100,2026-09-23
+blazer with patches,gender,male,62,2026-09-23
+knit poncho,gender,female,100,2026-09-23
+knit poncho,gender,male,24,2026-09-23
+utility jacket women,age,18-24,0,2026-09-23
+utility jacket women,age,25-34,58,2026-09-23
+utility jacket women,age,35-44,69,2026-09-23
+utility jacket women,age,45-54,100,2026-09-23
+utility jacket women,age,55-64,0,2026-09-23
+quilt coat,age,18-24,0,2026-09-23
+quilt coat,age,25-34,11,2026-09-23
+quilt coat,age,35-44,19,2026-09-23
+quilt coat,age,45-54,100,2026-09-23
+quilt coat,age,55-64,0,2026-09-23
+leather leggings,age,18-24,99,2026-09-23
+leather leggings,age,25-34,100,2026-09-23
+leather leggings,age,35-44,99,2026-09-23
+leather leggings,age,45-54,78,2026-09-23
+leather leggings,age,55-64,0,2026-09-23
+knit hat,age,18-24,23,2026-09-23
+knit hat,age,25-34,40,2026-09-23
+knit hat,age,35-44,61,2026-09-23
+knit hat,age,45-54,100,2026-09-23
+knit hat,age,55-64,100,2026-09-23
+ribbed beanie,age,18-24,59,2026-09-23
+ribbed beanie,age,25-34,100,2026-09-23
+ribbed beanie,age,35-44,93,2026-09-23
+ribbed beanie,age,45-54,54,2026-09-23
+ribbed beanie,age,55-64,0,2026-09-23
+utility jacket women,gender,female,100,2026-09-23
+utility jacket women,gender,male,34,2026-09-23
+quilt coat,gender,female,100,2026-09-23
+quilt coat,gender,male,27,2026-09-23
+leather leggings,gender,female,100,2026-09-23
+leather leggings,gender,male,72,2026-09-23
+knit hat,gender,female,100,2026-09-23
+knit hat,gender,male,44,2026-09-23
+ribbed beanie,gender,female,100,2026-09-23
+ribbed beanie,gender,male,62,2026-09-23
+leather trench coat,age,18-24,31,2026-09-23
+leather trench coat,age,25-34,36,2026-09-23
+leather trench coat,age,35-44,44,2026-09-23
+leather trench coat,age,45-54,30,2026-09-23
+leather trench coat,age,55-64,100,2026-09-23
+leather trench coat,gender,female,100,2026-09-23
+leather trench coat,gender,male,68,2026-09-23

@@ -1,0 +1,28 @@
+# ключи и доступы — только на компьютере
+.env
+.env.*
+!.env.example
+*token*.json
+*_keys.json
+*.session
+*.session-journal
+cookies*
+# служебное
+.venv/
+venv/
+__pycache__/
+*.pyc
+~$*
+*.log
+# тяжёлое
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+*.mp4
+*.pdf
+*.epub
+
+# сырые выгрузки API (185 МБ)
+fashion-trend-radar/data/raw/
